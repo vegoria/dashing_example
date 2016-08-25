@@ -1,0 +1,25 @@
+.widget-sample {
+    background-color: white;
+}
+
+.widget-sample h1 { 
+    color: black;
+}
+
+.widget-sample h2 {
+    color: red;
+}
+
+.widget-sample .detail {
+    font-weight: 500;
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+.widget-sample .more-info {
+    color: rebeccapurple;
+}
+
+.widget-sample .updated-at {
+    color: rebeccapurple;
+}
